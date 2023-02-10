@@ -1,0 +1,12 @@
+Jinja2
+click
+itsdangerous
+label-studio-ml
+requests
+rq
+scikit-learn
+supervisor
+torch
+torchvision
+uwsgi
+werkzeug
